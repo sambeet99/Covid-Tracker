@@ -5,8 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 
 //dfsdfd
-//sdfsdf
-//dsfsegfe
+//sdfs
 @SpringBootTest
 class CoronavirusreporterApplicationTests {
 
