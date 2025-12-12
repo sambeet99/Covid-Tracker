@@ -8,6 +8,9 @@ class CoronavirusreporterApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+
+		//
 	}
 
 }
