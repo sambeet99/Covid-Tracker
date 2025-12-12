@@ -9,6 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 //dev-3 added and pushed
 
 //dev-2
+//AAAAAAA
 @SpringBootApplication
 @EnableScheduling
 public class CoronavirusreporterApplication {
