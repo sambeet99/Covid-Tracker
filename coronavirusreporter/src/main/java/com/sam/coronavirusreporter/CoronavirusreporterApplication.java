@@ -6,12 +6,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 
 //2222
-//1111
-//11..
 
-
-//2..
-//2..
 
 
 
