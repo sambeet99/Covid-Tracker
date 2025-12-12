@@ -5,10 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 
 
-// main -div
-//dfsdfd
-//sdfs
-//feat-div
+//main div 2
 @SpringBootTest
 class CoronavirusreporterApplicationTests {
 
