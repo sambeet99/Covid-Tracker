@@ -6,6 +6,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 
 //r546
+//feat diverge
 @SpringBootApplication
 @EnableScheduling
 public class CoronavirusreporterApplication {
