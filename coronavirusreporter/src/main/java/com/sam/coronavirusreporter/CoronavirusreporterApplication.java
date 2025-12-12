@@ -6,6 +6,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 
 //BBBB
+//2b
 @SpringBootApplication
 @EnableScheduling
 public class CoronavirusreporterApplication {
