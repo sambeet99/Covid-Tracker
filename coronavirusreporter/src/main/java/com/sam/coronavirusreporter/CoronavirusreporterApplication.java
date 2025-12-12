@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 
-//AAAAAAAA
 @SpringBootApplication
 @EnableScheduling
 public class CoronavirusreporterApplication {
