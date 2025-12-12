@@ -10,8 +10,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 //11..
 
 
-//2..
-//2..
 
 
 
