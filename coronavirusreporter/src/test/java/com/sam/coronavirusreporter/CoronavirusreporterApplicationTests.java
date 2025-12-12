@@ -5,7 +5,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 
 
-//main 11
+//main 10
+//main 6
+//feat 7
 @SpringBootTest
 class CoronavirusreporterApplicationTests {
 
